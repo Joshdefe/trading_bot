@@ -1,0 +1,8 @@
+python-telegram-bot
+binance
+ta
+pandas
+numpy
+python-dotenv
+joblib
+requests

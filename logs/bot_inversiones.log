@@ -1,0 +1,22 @@
+2025-03-19 23:37:52,730 - INFO - Mensaje informativo de prueba.
+2025-03-19 23:37:52,730 - ERROR - Mensaje de error de prueba.
+2025-03-19 23:38:07,039 - INFO - Mensaje informativo de prueba.
+2025-03-19 23:38:07,039 - ERROR - Mensaje de error de prueba.
+2025-03-20 00:16:31,929 - INFO - Scheduler started
+2025-03-20 00:16:32,523 - INFO - Telegram Bot iniciado.
+2025-03-20 00:17:42,422 - INFO - Comando /start recibido.
+2025-03-20 00:26:27,784 - INFO - Scheduler started
+2025-03-20 00:26:28,385 - INFO - Telegram Bot iniciado.
+2025-03-20 00:44:13,360 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 01:03:09,225 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 01:10:02,505 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 01:24:19,169 - INFO - Backtesting finalizado. Balance final: 2000.00
+2025-03-20 01:26:43,908 - INFO - [2023-01-01 00:14:00] Trade abierto a 61.00 con cantidad 4.9180
+2025-03-20 01:26:43,914 - INFO - [2023-01-01 00:19:00] Trade cerrado a 66.00: Ganancia/Pérdida = 24.59, Nuevo balance = 2024.59
+2025-03-20 01:26:43,914 - INFO - Backtesting finalizado. Balance final: 2024.59
+2025-03-20 21:06:21,788 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 21:06:22,035 - ERROR - Error al obtener indicadores para Bitcoin: APIError(code=-1100): Illegal characters found in parameter 'symbol'; legal range is '^[A-Z0-9-_.]{1,20}$'.
+2025-03-20 21:09:37,332 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 21:09:38,489 - INFO - No se encontraron noticias para BTCUSDT
+2025-03-20 21:13:10,970 - ERROR - No se encontró el modelo. Ejecutando sin predicciones.
+2025-03-20 21:13:11,713 - INFO - Sentimiento promedio para Bitcoin: 0.0000

@@ -1,0 +1,5 @@
+2025-03-20 20:53:35,864 - ERROR - Error en la consulta de noticias: {'status': 'error', 'code': 'apiKeyMissing', 'message': 'Your API key is missing. Append this to the URL with the apiKey param, or use the x-api-key HTTP header.'}
+2025-03-20 20:53:35,865 - INFO - No se encontraron noticias para Bitcoin
+2025-03-20 20:55:27,632 - ERROR - Error en la consulta de noticias: {'status': 'error', 'code': 'apiKeyMissing', 'message': 'Your API key is missing. Append this to the URL with the apiKey param, or use the x-api-key HTTP header.'}
+2025-03-20 20:55:27,633 - INFO - No se encontraron noticias para Bitcoin
+2025-03-20 20:57:36,855 - INFO - Sentimiento promedio para Bitcoin: 0.1454

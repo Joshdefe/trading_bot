@@ -1,0 +1,2 @@
+timestamp,symbol,action,open_price,close_price,quantity,result,balance_after
+2025-03-20 01:19:34,BTCUSDT,CLOSE,87000.0,87500.0,0.1,50.0,2050.0
